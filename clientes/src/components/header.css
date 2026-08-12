@@ -1,0 +1,9 @@
+.tit {
+    width: 100%;
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
