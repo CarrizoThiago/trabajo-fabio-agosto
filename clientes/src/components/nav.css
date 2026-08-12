@@ -10,7 +10,7 @@
 
 }
 
-.tarjetac {
+.tarjeta {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -23,11 +23,13 @@
 
 }
 
-.ttc {
+.tt {
     text-decoration: underline;
 }
 
-.botonc {
+.boton {
     width: 50%;
     border-radius: 15px;
+    background-color: lightblue;
+    color: black;
 }
